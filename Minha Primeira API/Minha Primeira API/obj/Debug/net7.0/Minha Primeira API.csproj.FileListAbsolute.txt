@@ -1,0 +1,33 @@
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\bin\Debug\net7.0\appsettings.json
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\bin\Debug\net7.0\Minha Primeira API.exe
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\bin\Debug\net7.0\Minha Primeira API.deps.json
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\bin\Debug\net7.0\Minha Primeira API.runtimeconfig.json
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\bin\Debug\net7.0\Minha Primeira API.dll
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\bin\Debug\net7.0\Minha Primeira API.pdb
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\obj\Debug\net7.0\Minha Primeira API.csproj.AssemblyReference.cache
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\obj\Debug\net7.0\Minha Primeira API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\obj\Debug\net7.0\Minha Primeira API.AssemblyInfoInputs.cache
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\obj\Debug\net7.0\Minha Primeira API.AssemblyInfo.cs
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\obj\Debug\net7.0\Minha Primeira API.csproj.CoreCompileInputs.cache
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\obj\Debug\net7.0\Minha Primeira API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\obj\Debug\net7.0\Minha Primeira API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\obj\Debug\net7.0\staticwebassets\msbuild.Minha Primeira API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\obj\Debug\net7.0\staticwebassets\msbuild.build.Minha Primeira API.props
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Minha Primeira API.props
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Minha Primeira API.props
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\obj\Debug\net7.0\scopedcss\bundle\Minha Primeira API.styles.css
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\obj\Debug\net7.0\Minha Primeira API.csproj.CopyComplete
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\obj\Debug\net7.0\Minha Primeira API.dll
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\obj\Debug\net7.0\refint\Minha Primeira API.dll
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\obj\Debug\net7.0\Minha Primeira API.pdb
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\obj\Debug\net7.0\Minha Primeira API.genruntimeconfig.cache
+C:\Users\luizz\OneDrive\Documentos\Estudos Prog\Meus Estudos\C#\Minha Primeira API\Minha Primeira API\obj\Debug\net7.0\ref\Minha Primeira API.dll
