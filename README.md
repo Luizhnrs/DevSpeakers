@@ -1,5 +1,5 @@
-##MyFirstAPI.ASPNET
-##This project is a simple API developed in ASP.NET Core, created as part of an introduction to API development.
+## MyFirstAPI.ASPNET
+## This project is a simple API developed in ASP.NET Core, created as part of an introduction to API development.
 
 Este projeto é uma API simples desenvolvida em ASP.NET Core, criada como parte de uma introdução ao desenvolvimento de APIs.
 
